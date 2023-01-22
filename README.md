@@ -1,3 +1,15 @@
+# React Portfolio
+
+Portfolio website built using React
+
+It's a website to showcase the following: 
+* Who I am 👤
+* My skills ✨
+* A sample of my work 💻
+* My contacts 📞
+
+You can follow this [link](https://maria-ayman-portfolio.netlify.app/) to see the website live ✨
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
